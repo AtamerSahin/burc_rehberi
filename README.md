@@ -10,5 +10,5 @@ A Flutter project where you can get information about horoscopes and uses the Co
 
 ###### Screenshots
 
-![](https://ibb.co/2NMX9g4)
+![](https://github.com/AtamerSahin/burc_rehberi/blob/master/images/screenshot.png)
 
