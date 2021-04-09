@@ -2,7 +2,7 @@
 
 Burçlar hakkında bilgi alabileceğiniz ve renkler için ColorPalette kütüphanesini kullanan bir Flutter projesi.
 
-# Horocope Guide
+# Horoscope Guide
 
 A Flutter project where you can get information about horoscopes and uses the ColorPalette library for changeable AppBar colors. 
 
