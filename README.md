@@ -11,7 +11,7 @@ A Flutter project where you can get information about horoscopes and uses the Co
 ###### Screenshots
 
 
-<img src="images/screenshot.png" width="200">
+<img src="images/screenshot.png" width="300">
 
 
 
